@@ -3,4 +3,28 @@ body
     color: rgb(43, 113, 226);
     text-align: center;
     font-family: "century gothic";
+    color: black;
+
+}
+
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,.5);
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+    padding:. 5em
+}
+
+#conteiner
+{
+    width: 50%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid #ddd;
+    color: aqua;
+    margin: 0 auto;
+    
+
 }
